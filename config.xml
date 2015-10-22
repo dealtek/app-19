@@ -2,8 +2,8 @@
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.idcapp.basic"
-    versionCode = "1.1.8" 
-    version     = "1.1.8" >
+    versionCode = "1.1.9" 
+    version     = "1.1.9" >
 	
 	<!--just android ios-->
 	
